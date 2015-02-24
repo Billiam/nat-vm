@@ -7,6 +7,6 @@
 1. enter `bundle` to install the project gems
 1. copy `config/database.yml.dist` to `config/database.yml`
 1. copy `config/secrets.yml.dist` to `config/secrets.yml`
-1. enter `bundle exec rails db:create`
+1. enter `bundle exec rake db:create`
 1. enter `bundle exec foreman start`
 1. visit `http://localhost:5000`
