@@ -1,0 +1,10 @@
+/.bundle
+
+.idea/
+.vagrant/
+
+/log
+/tmp
+
+*.DS_Store*
+*.swp
